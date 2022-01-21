@@ -3,5 +3,6 @@
         <element attributes="edge_encryption_enabled=true" label="TestField1" max_length="40" name="testfield1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="TestField2" max_length="40" name="testfield2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="TestField3" max_length="40" name="testfield3" type="string"/>
+        <element label="TestField4" max_length="40" name="testfield4" type="string"/>
     </element>
 </database>
