@@ -2,5 +2,6 @@
     <element label="TestTable" max_length="40" name="x_snc_bennetttest2_testtable" type="collection">
         <element attributes="edge_encryption_enabled=true" label="TestField1" max_length="40" name="testfield1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="TestField2" max_length="40" name="testfield2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TestField3" max_length="40" name="testfield3" type="string"/>
     </element>
 </database>
